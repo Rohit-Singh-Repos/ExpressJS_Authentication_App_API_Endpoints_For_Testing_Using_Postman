@@ -1,6 +1,6 @@
 # ExpressJS_Authentication_App_API_Endpoints_For_Testing_Using_Postman
 
-Methods To Run App :
+Steps To Run App :
 
 1) Download Postman in your system.
 2) Import "Express_authapp_endpoint_for_testing_api_using_postman.json" file into postman.
