@@ -1,4 +1,4 @@
-# ExpressJS_Authentication_App_API_Endpoints_For_Testing_Using_Postman
+# ExpressJS_Authentication_App_REST_API
 
 Steps To Run App :
 
